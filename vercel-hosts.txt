@@ -1,0 +1,44 @@
+# =============================================
+# Vercel 可用CDN节点Hosts映射
+# 远程自动更新URL:
+#   https://raw.githubusercontent.com/zhudoiwen/cdn-hosts/refs/heads/main/vercel-hosts.txt
+# 生成时间: 2026-05-25
+# 用于: SwitchHosts 远程URL自动拉取
+# =============================================
+
+# 🥇 第一梯队 - 最快节点
+198.169.1.129 vercel.com
+198.169.1.129 www.vercel.com
+198.169.1.129 vercel.app
+198.169.1.129 www.vercel.app
+198.169.1.129 v0.dev
+198.169.1.129 nextjs.org
+198.169.1.129 www.nextjs.org
+198.169.1.129 api.vercel.com
+198.169.1.129 sdk.vercel.ai
+198.169.1.129 vercel-storage.com
+
+# 🥈 第二梯队
+76.76.21.21 vercel.com
+76.76.21.21 www.vercel.com
+76.76.21.21 vercel.app
+76.76.21.21 www.vercel.app
+76.76.21.21 v0.dev
+76.76.21.21 nextjs.org
+76.76.21.21 www.nextjs.org
+76.76.21.21 api.vercel.com
+76.76.21.21 sdk.vercel.ai
+76.76.21.21 vercel-storage.com
+
+# 🥉 第三梯队 (备用)
+172.67.137.26 vercel.com
+172.67.137.26 www.vercel.com
+172.67.137.26 vercel.app
+172.67.137.26 v0.dev
+104.21.38.175 vercel.com
+104.21.38.175 www.vercel.com
+104.21.38.175 vercel.app
+104.21.38.175 v0.dev
+216.230.84.65 vercel.com
+216.230.84.65 www.vercel.com
+216.230.84.65 vercel.app

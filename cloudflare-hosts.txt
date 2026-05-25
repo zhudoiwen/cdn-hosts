@@ -1,0 +1,40 @@
+# =============================================
+# Cloudflare 可用CDN节点Hosts映射
+# 远程自动更新URL:
+#   https://raw.githubusercontent.com/zhudoiwen/cdn-hosts/refs/heads/main/cloudflare-hosts.txt
+# 生成时间: 2026-05-25
+# 数据来源: api.cloudflare.com/client/v4/ips
+# 用于: SwitchHosts 远程URL自动拉取
+# =============================================
+
+# 🥇 第一梯队 - 最快节点
+173.245.59.113 cdnjs.cloudflare.com
+173.245.59.113 ajax.cloudflare.com
+173.245.59.113 www.cloudflare.com
+173.245.59.113 dash.cloudflare.com
+173.245.59.113 cloudflare.com
+173.245.59.113 1.1.1.1
+173.245.59.113 one.one.one.one
+
+# 🥈 第二梯队
+173.245.59.145 cdnjs.cloudflare.com
+173.245.59.145 ajax.cloudflare.com
+173.245.59.145 www.cloudflare.com
+173.245.59.145 dash.cloudflare.com
+173.245.59.145 cloudflare.com
+173.245.59.145 1.1.1.1
+173.245.59.145 one.one.one.one
+
+# 🥉 第三梯队 (备用)
+173.245.58.241 cdnjs.cloudflare.com
+173.245.58.241 ajax.cloudflare.com
+173.245.58.241 cloudflare.com
+173.245.58.113 cdnjs.cloudflare.com
+173.245.58.113 ajax.cloudflare.com
+173.245.58.113 cloudflare.com
+173.245.59.161 cdnjs.cloudflare.com
+173.245.59.161 ajax.cloudflare.com
+173.245.59.161 cloudflare.com
+103.21.244.141 cdnjs.cloudflare.com
+103.21.244.141 ajax.cloudflare.com
+103.21.244.141 cloudflare.com
